@@ -1,1 +1,8 @@
+Flask 
+numpy 
+pickle4
+pandas 
+seaborn 
+requests 
+scikit-learn 
 gunicorn
